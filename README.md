@@ -1,3 +1,10 @@
+---
+title:  "MyTitle"
+layout: MyLayout
+---
+
+{% include mermaid.html %}
+
 # sunphonic
 
 ```mermaid
